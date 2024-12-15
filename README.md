@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **subhashmhetre369@gmail.com**
 
-- 📄 Know about my experiences [https://subhashmhetre369.hackerresume.io/badccf5b-089b-43d3-8531-1dea1b8b06dc](https://subhashmhetre369.hackerresume.io/badccf5b-089b-43d3-8531-1dea1b8b06dc)
+- 📄 Know about my experiences.---- [Resume link](https://subhashmhetre369.hackerresume.io/badccf5b-089b-43d3-8531-1dea1b8b06dc)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

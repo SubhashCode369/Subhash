@@ -1,4 +1,5 @@
 <h1 align="center"> HI I AM SUBHASH MHETRE. </h1>
+<hr>
 <h3 align="center">Passionate Full-Stack Developer | MERN Specialist with Strong DSA Skills | Building Scalable Solutions.</h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashcode369&label=Profile%20views&color=0e75b6&style=flat" alt="subhashcode369" /> </p>

@@ -1,7 +1,6 @@
 <h1 align="center"> HI I AM SUBHASH MHETRE. </h1>
 <h3 align="center">Passionate Full-Stack Developer | MERN Specialist with Strong DSA Skills | Building Scalable Solutions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashcode369&label=Profile%20views&color=0e75b6&style=flat" alt="subhashcode369" /> </p
-
 - 💬 Ask me about **👋 Hi, I'm Subhash Mhetre, a full-stack developer diving deep into data structures and algorithms (DSA)! I’m always excited to learn and discuss DSA concepts, programming techniques, and software development. 💻 Ask me about: Frontend and backend development Database design and optimization Solving complex problems with data structures and algorithms Anything else tech-related!**
 
 - 📫 How to reach me **subhashmhetre369@gmail.com**

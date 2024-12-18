@@ -25,6 +25,7 @@ Frontend and backend development, database design, solving complex problems with
 - [**Movie showcase web**](https://subhashcode369.github.io/subhash-project-1/) - A full-stack movie showcaseing  platform built with HTML CSS AND JAVASCRIPT.
 - [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - A full-stack e-commerce platform built with HTML CSS AND JAVASCRIPT
 <div>
+class="custom-width">This div has 50% width of the parent container
   <h3 align="left">Languages:</h3>
   <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 

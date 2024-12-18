@@ -1,4 +1,4 @@
- <h1 align="center">hi i am subhash mhetre.</h1>
+ <h1 align="center"> HI I AM SUBHASH MHETRE.</h1>
 
 <h3 align="center">Passionate Full-Stack Developer | MERN Specialist with Strong DSA Skills | Building Scalable Solutions.</h3>
 <hr>
@@ -10,7 +10,7 @@
 - 📫 How to reach me **subhashmhetre369@gmail.com**
 
 - 📄 Know about my experiences.  [Resume link](https://subhashmhetre369.hackerresume.io/badccf5b-089b-43d3-8531-1dea1b8b06dc)
-<hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/subhashmhetre369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhashmhetre369" height="30" width="40" /></a>

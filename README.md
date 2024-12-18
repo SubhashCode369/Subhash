@@ -21,7 +21,7 @@
 <hr>
 
 <div>
-  <div align="left">
+  <div align="right">
     <p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashcode369&show_icons=true&locale=en&layout=compact" alt="subhashcode369" />
     </p>

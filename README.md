@@ -37,13 +37,15 @@
     </a>
   </p>
  
- align="right">
+ <div style="width: 500px;">
+
     <p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashcode369&show_icons=true&locale=en&layout=compact" alt="subhashcode369" />
     </p>
     <p>
       &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=subhashcode369&show_icons=true&locale=en" alt="subhashcode369" />
     </p>
+ </div>
  
   <h3 align="left">Frontend Development:</h3>
   <p align="left"> 

@@ -1,17 +1,11 @@
  <h1 align="center"> HI I AM SUBHASH MHETRE.</h1>
 
 <h3 align="center">Passionate Full-Stack Developer | MERN Specialist with Strong DSA Skills | Building Scalable Solutions.</h3>
-<hr> 
-
 - 💡 **About Me**  
-
 A full-stack developer with a passion for building scalable web applications and solving challenging problems using data structures and algorithms. Proficient in both frontend and backend technologies, I thrive on learning, collaborating, and creating impactful solutions in the tech space. 🚀  
-
 - 💬 **Ask Me About**  
 
 Frontend and backend development, database design, solving complex problems with data structures and algorithms, or anything tech-related. Let’s talk tech! 🚀
-
-<hr>
 
 - 📫 How to reach me **subhashmhetre369@gmail.com**
 
@@ -25,13 +19,10 @@ Frontend and backend development, database design, solving complex problems with
 <a href="https://auth.geeksforgeeks.org/user/subhashmhetre369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subhashmhetre369" height="30" width="40" /></a>
 </p>
 <hr>
-
 ### Projects  
 - [**Portfolio**](https://subhashcode369.github.io/portfolio/) - A personal portfolio showcasing my skills, projects, and achievements.
 - [**Movie showcase web**](https://subhashcode369.github.io/subhash-project-1/) - A full-stack movie showcaseing  platform built with HTML CSS AND JAVASCRIPT.
-- [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - A full-stack e-commerce platform built with HTML CSS AND JAVASCRIPT.
-
-
+- [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - A full-stack e-commerce platform built with HTML CSS AND JAVASCRIPT
 <div>
   <h3 align="left">Languages:</h3>
   <p align="left"> 
@@ -103,5 +94,5 @@ Frontend and backend development, database design, solving complex problems with
     <p>
       &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=subhashcode369&show_icons=true&locale=en" alt="subhashcode369" />
     </p>
-    <hr>
 </div>
+<hr>

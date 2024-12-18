@@ -19,6 +19,7 @@
 <a href="https://auth.geeksforgeeks.org/user/subhashmhetre369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subhashmhetre369" height="30" width="40" /></a>
 </p>
 <hr>
+<div>
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -81,6 +82,7 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
   </a>
+ </div>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashcode369&label=Profile%20views&color=0e75b6&style=flat" alt="subhashcode369" /> </p>
 

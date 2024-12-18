@@ -27,7 +27,7 @@ Frontend and backend development, database design, solving complex problems with
 <hr>
 
 ### Projects  
-- [**Portfolio Website**](#) - A personal portfolio showcasing my skills, projects, and achievements.  
+- [**Portfolio Website**](https://subhashcode369.github.io/portfolio/) - A personal portfolio showcasing my skills, projects, and achievements.  
 - [**E-commerce App**](#) - A full-stack e-commerce platform built with React and Node.js.  
 - [**DSA Visualizer**](#) - A tool to visualize data structure operations and algorithms.  
 

@@ -83,7 +83,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
   </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhashcode369&label=Profile%20views&color=0e75b6&style=flat" alt="subhashcode369" /> </p>
 
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+  <div style="flex: 1; padding: 10px;">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashcode369&show_icons=true&locale=en&layout=compact" alt="subhashcode369" /></p>
+
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=subhashcode369&show_icons=true&locale=en" alt="subhashcode369" /></p>
+  
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashcode369&show_icons=true&locale=en&layout=compact" alt="subhashcode369" /></p>
 

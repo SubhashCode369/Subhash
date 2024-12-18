@@ -19,6 +19,7 @@ Frontend and backend development, database design, solving complex problems with
 <a href="https://auth.geeksforgeeks.org/user/subhashmhetre369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subhashmhetre369" height="30" width="40" /></a>
 </p>
 <hr>
+
 ### Projects  
 - [**Portfolio**](https://subhashcode369.github.io/portfolio/) - A personal portfolio showcasing my skills, projects, and achievements.
 - [**Movie showcase web**](https://subhashcode369.github.io/subhash-project-1/) - A full-stack movie showcaseing  platform built with HTML CSS AND JAVASCRIPT.

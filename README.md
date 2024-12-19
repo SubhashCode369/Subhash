@@ -85,12 +85,10 @@ Frontend and backend development, database design, solving complex problems with
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
     </a>
   <hr>
-    <p>
-      align ="center"
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashcode369&show_icons=true&locale=en&layout=compact" alt="subhashcode369" />
-    </p>
-    <p>
-      &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=subhashcode369&show_icons=true&locale=en" alt="subhashcode369" />
-    </p>
-</div>
+   <p style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashcode369&show_icons=true&locale=en&layout=compact" alt="subhashcode369" />
+</p>
+<p style="text-align: center;">
+  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=subhashcode369&show_icons=true&locale=en" alt="subhashcode369" />
+</p>
 <hr>

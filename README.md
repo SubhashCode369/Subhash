@@ -26,8 +26,8 @@ Frontend and backend development, database design, solving complex problems with
 - [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - A full-stack e-commerce platform built with HTML CSS AND JAVASCRIPT
 
   <hr>
-  <h3 align="left">Languages framework and tool :</h3>
-  <p align="left"> 
+  <h3 align="center">Languages framework and tool :</h3>
+  <p align="center"> 
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a>

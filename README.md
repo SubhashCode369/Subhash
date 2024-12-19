@@ -1,6 +1,6 @@
  <h1 align="center"> HI I AM SUBHASH MHETRE.</h1>
 
-<h3 align="center">Passionate Full-Stack Developer | MERN Specialist with Strong DSA Skills | Building Scalable Solutions.</h3>
+<h3 align="center"> Passionate Full-Stack Developer | MERN Specialist with Strong DSA Skills | Building Scalable Solutions.</h3>
 
 - 💡 **About Me**  
 A full-stack developer with a passion for building scalable web applications and solving challenging problems using data structures and algorithms. Proficient in both frontend and backend technologies, I thrive on learning, collaborating, and creating impactful solutions in the tech space. 🚀
@@ -12,8 +12,8 @@ Frontend and backend development, database design, solving complex problems with
 
 - 📄 Know about my experiences - [Resume link](https://subhashmhetre369.hackerresume.io/badccf5b-089b-43d3-8531-1dea1b8b06dc)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/subhashmhetre369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhashmhetre369" height="30" width="40" /></a>
  <a href="https://stackoverflow.com/users/27586529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27586529" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/subhash1369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhash1369" height="30" width="40" /></a>
@@ -40,7 +40,6 @@ Frontend and backend development, database design, solving complex problems with
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a>
   </p>
- 
   <h3 align="left">Frontend Development:</h3>
   <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -59,7 +58,6 @@ Frontend and backend development, database design, solving complex problems with
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a>
   </p>
-
   <h3 align="left">Backend Development:</h3>
   <p align="left"> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -75,7 +73,6 @@ Frontend and backend development, database design, solving complex problems with
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
     </a>
   </p>
-
   <h3 align="left">Tools:</h3>
   <p align="left"> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
@@ -87,7 +84,6 @@ Frontend and backend development, database design, solving complex problems with
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
     </a>
-   
   <hr>
     <p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashcode369&show_icons=true&locale=en&layout=compact" alt="subhashcode369" />

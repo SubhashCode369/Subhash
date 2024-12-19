@@ -17,13 +17,13 @@ jobs:
     steps:
       # Step 1: Checkout the repository
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/SubhashCode369
       # Step 2: Generate the snake animations
       - name: Generate GitHub Contributions Snake Animations
-        uses: Platane/snk@v3
+        uses: Platane/SubhashCode369
         with:
           # GitHub username to generate the animation for
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.SubhashCode369 }}
           # Define the output files and their configurations
           outputs: |
             dist/github-snake.svg

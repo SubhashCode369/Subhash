@@ -25,7 +25,7 @@ Frontend and backend development, database design, solving complex problems with
 - [**Movie showcase web**](https://subhashcode369.github.io/subhash-project-1/) - A full-stack movie showcaseing  platform built with HTML CSS AND JAVASCRIPT.
 - [**E-commerce**](https://subhashcode369.github.io/subhash-project-2/) - A full-stack e-commerce platform built with HTML CSS AND JAVASCRIPT
 <div>
-  <h3 align="left">Languages:</h3>
+  <h3 align="left">Languages framework and tool :</h3>
   <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -39,13 +39,10 @@ Frontend and backend development, database design, solving complex problems with
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a>
-  </p>
-  <h3 align="left">Frontend Development:</h3>
-  <p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -54,14 +51,15 @@ Frontend and backend development, database design, solving complex problems with
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
     </a> 
+   
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a>
-  </p>
-  <h3 align="left">Backend Development:</h3>
-  <p align="left"> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+    </a> 
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
     </a> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
@@ -69,26 +67,34 @@ Frontend and backend development, database design, solving complex problems with
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
     </a> 
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+    </a> 
+     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
     </a>
-  </p>
-  <h3 align="left">Tools:</h3>
-  <p align="left"> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
     <a href="https://github.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
     </a>
+     <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/> 
+    </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
     </a>
-  <hr>
-   <p>
+    <hr>
+    <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhashcode369&show_icons=true&locale=en&layout=compact" alt="subhashcode369" />
 </p>
 <p>
   &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=subhashcode369&show_icons=true&locale=en" alt="subhashcode369" />
 </p>
 <hr>
+
+ 
